@@ -15,3 +15,5 @@ steps:
     'push',
     'europe-west1-docker.pkg.dev/platinum-wave-447808-n1/container-test/image'
   ]
+options:
+  logging: CLOUD_LOGGING_ONLY
